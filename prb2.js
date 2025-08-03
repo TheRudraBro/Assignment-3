@@ -1,10 +1,10 @@
-var money = 25000;
+var money = 10000;
 if(money>=25000)
 {
-    console.log("Montu Can Buy a laptop")
+    console.log("Laptop")
 }else if(money>=10000)
 {
-    console.log("Montu can buy a cycle.")
+    console.log("Cycle")
 }else{
-    console.log("Montu can take a chocolate.")
+    console.log("Chocolate ")
 }
